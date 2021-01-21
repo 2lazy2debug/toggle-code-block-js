@@ -1,5 +1,7 @@
 # simple-comment-toggle README
 
+![comment toggle demo on vscode](comment-toggle.gif)
+
 Simple extension written in a boring evening night thanks to [Wes Bos' Tweet](https://twitter.com/wesbos/status/1352306763425587202). 
 It basically untoggles a multiline js comment without needing to select the code block first. 
 
